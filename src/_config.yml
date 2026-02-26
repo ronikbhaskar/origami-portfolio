@@ -101,7 +101,10 @@ theme: frame
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/ronikbhaskar/origami-portfolio
+  branch: main
+  message: "updating site"
 
 # Search
 search:
