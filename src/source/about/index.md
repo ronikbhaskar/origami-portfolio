@@ -12,6 +12,8 @@ Constraints are central to his process. Great stories are told not just in the d
 
 Please contact before distributing or teaching any works.
 
-Email: *todo: add email address*
+---
 
-Instagram: *todo: add instagram*
+Email: business {at} ronikorigami {dot} com
+
+Instagram: @ronikfolds
