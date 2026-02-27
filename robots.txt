@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: null
 Allow: /
-Sitemap: https://ronikbhaskar.github.io/sitemap.xml
+Sitemap: https://ronikorigami.com/sitemap.xml
