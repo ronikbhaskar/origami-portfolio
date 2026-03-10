@@ -118,6 +118,8 @@ sitemap:
     - sitemap.xml
     - sitemap.txt
   rel: false
+  tags: false
+  categories: false
 
 plugins:
 - hexo-generator-robotstxt
