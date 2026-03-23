@@ -20,22 +20,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Fish out of Water</title>
-    <url>/fish-out-of-water/</url>
-    <content><![CDATA[<p>A bit of an absurdist take on the phrase. Being a fish out of water tends to be a bad thing, but I wanted to put a positive spin on the idea. Origami fish typically aren’t in water to begin with, so to make that part extra clear, I gave it an umbrella.</p>
-<hr>
-<h2 id="Crease-Pattern"><a href="#Crease-Pattern" class="headerlink" title="Crease Pattern:"></a>Crease Pattern:</h2><p><img src="/gallery/fish-out-of-water-cp.png"></p>
-]]></content>
-      <categories>
-        <category>gallery</category>
-      </categories>
-      <tags>
-        <tag>Animal</tag>
-        <tag>Color Change</tag>
-        <tag>Inanimate</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hanging by a Thread</title>
     <url>/hanging-by-a-thread/</url>
     <content><![CDATA[<p>Hanging by a thread typically implies desperately clinging to something. I wanted to consider the perspective where you have given up, and there’s something else putting the effort into holding you up. In this case, the subject is being held up by a balloon, but they are, for lack of a better term, done with everything. To some degree, I was inspired by Banksy’s “Girl with Balloon”, which inspired my color choice.</p>
@@ -49,6 +33,22 @@
       <tags>
         <tag>Color Change</tag>
         <tag>Humanoid</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Fish out of Water</title>
+    <url>/fish-out-of-water/</url>
+    <content><![CDATA[<p>A bit of an absurdist take on the phrase. Being a fish out of water tends to be a bad thing, but I wanted to put a positive spin on the idea. Origami fish typically aren’t in water to begin with, so to make that part extra clear, I gave it an umbrella.</p>
+<hr>
+<h2 id="Crease-Pattern"><a href="#Crease-Pattern" class="headerlink" title="Crease Pattern:"></a>Crease Pattern:</h2><p><img src="/gallery/fish-out-of-water-cp.png"></p>
+]]></content>
+      <categories>
+        <category>gallery</category>
+      </categories>
+      <tags>
+        <tag>Animal</tag>
+        <tag>Color Change</tag>
+        <tag>Inanimate</tag>
       </tags>
   </entry>
   <entry>
@@ -168,29 +168,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Tags</title>
-    <url>/tag/</url>
-    <content><![CDATA[<meta http-equiv="refresh" content="0; url=/gallery" />
-
-<p>If you are not redirected, please click <a href="/gallery">here</a> to return to the gallery.</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>Trophy Hunting</title>
-    <url>/trophy-hunting/</url>
-    <content><![CDATA[<p>What started as a sketch of an elephant head turned into something much more. Trophy hunting as a broader concept is a contentious subject with a lot of philosophical nuance. In recent years, trophy hunting has become a trolley problem, where conservationists are offered millions to let trophy hunters kill a single animal. In exchange, that money could go to protecting many more of the same species. Is sacrificing one life worth saving others? Are we playing god with the natural world? I don’t have the answers.</p>
-<hr>
-<h2 id="Crease-Pattern"><a href="#Crease-Pattern" class="headerlink" title="Crease Pattern:"></a>Crease Pattern:</h2><p><img src="/gallery/trophy-hunting-cp.png"></p>
-]]></content>
-      <categories>
-        <category>gallery</category>
-      </categories>
-      <tags>
-        <tag>Animal</tag>
-        <tag>Wetfold</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Stick Figure</title>
     <url>/stick-figure/</url>
     <content><![CDATA[<h2 id="Diagrams"><a href="#Diagrams" class="headerlink" title="Diagrams"></a>Diagrams</h2><p>I MADE DIAGRAMS! Everyone at the Chicago Origami Convention was asking if I had diagrams, so I finally made some. Now, you can fold this stick figure whenever you want.</p>
@@ -215,21 +192,26 @@
       </tags>
   </entry>
   <entry>
-    <title>Waiting, Act I</title>
-    <url>/waiting-act-i/</url>
-    <content><![CDATA[<p><em>Waiting</em> tells a story in two parts. In this first part, someone is waiting on a bench, holding a paper boat. The <a href="../waiting-act-ii">second act</a> reveals whom the subject is waiting for: a family of ducks. </p>
-<p>Both designs incorporate identical benches. The goal here was to use the repeatability of origami to create a bench that was so similar in both settings, the viewer would be forgiven for thinking it was the same bench. In fact, neither the person nor the ducks can be detached from the bench. Both works are from single squares of paper.</p>
-<p>There are multiple ways to interpret these works, whether from the lens of reduced conservationism, deprioritizing the outdoors, or being in the right place at the wrong time. </p>
+    <title>Tags</title>
+    <url>/tag/</url>
+    <content><![CDATA[<meta http-equiv="refresh" content="0; url=/gallery" />
+
+<p>If you are not redirected, please click <a href="/gallery">here</a> to return to the gallery.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Trophy Hunting</title>
+    <url>/trophy-hunting/</url>
+    <content><![CDATA[<p>What started as a sketch of an elephant head turned into something much more. Trophy hunting as a broader concept is a contentious subject with a lot of philosophical nuance. In recent years, trophy hunting has become a trolley problem, where conservationists are offered millions to let trophy hunters kill a single animal. In exchange, that money could go to protecting many more of the same species. Is sacrificing one life worth saving others? Are we playing god with the natural world? I don’t have the answers.</p>
 <hr>
-<h2 id="Crease-Pattern"><a href="#Crease-Pattern" class="headerlink" title="Crease Pattern:"></a>Crease Pattern:</h2><p><img src="/gallery/waiting-act-i-cp.png"></p>
+<h2 id="Crease-Pattern"><a href="#Crease-Pattern" class="headerlink" title="Crease Pattern:"></a>Crease Pattern:</h2><p><img src="/gallery/trophy-hunting-cp.png"></p>
 ]]></content>
       <categories>
         <category>gallery</category>
       </categories>
       <tags>
-        <tag>Color Change</tag>
-        <tag>Inanimate</tag>
-        <tag>Humanoid</tag>
+        <tag>Animal</tag>
+        <tag>Wetfold</tag>
       </tags>
   </entry>
   <entry>
@@ -251,20 +233,21 @@
       </tags>
   </entry>
   <entry>
-    <title>Walking Red Flag</title>
-    <url>/walking-red-flag/</url>
-    <content><![CDATA[<p>The 2020s has seen a sharp increase in using “red flags” to discuss partners and dating, so I decided to take a more literal interpretation of the phrase. If the giant red flag isn’t enough to scare you away from the walking red flag in your life, they have another red flag right there in their hand. </p>
-<p>This was my Round of 16 entry for the 2025 Death Battle Design Contest. </p>
+    <title>Waiting, Act I</title>
+    <url>/waiting-act-i/</url>
+    <content><![CDATA[<p><em>Waiting</em> tells a story in two parts. In this first part, someone is waiting on a bench, holding a paper boat. The <a href="../waiting-act-ii">second act</a> reveals whom the subject is waiting for: a family of ducks. </p>
+<p>Both designs incorporate identical benches. The goal here was to use the repeatability of origami to create a bench that was so similar in both settings, the viewer would be forgiven for thinking it was the same bench. In fact, neither the person nor the ducks can be detached from the bench. Both works are from single squares of paper.</p>
+<p>There are multiple ways to interpret these works, whether from the lens of reduced conservationism, deprioritizing the outdoors, or being in the right place at the wrong time. </p>
 <hr>
-<h2 id="Crease-Pattern"><a href="#Crease-Pattern" class="headerlink" title="Crease Pattern:"></a>Crease Pattern:</h2><p><img src="/gallery/walking-red-flag-cp.png"></p>
+<h2 id="Crease-Pattern"><a href="#Crease-Pattern" class="headerlink" title="Crease Pattern:"></a>Crease Pattern:</h2><p><img src="/gallery/waiting-act-i-cp.png"></p>
 ]]></content>
       <categories>
         <category>gallery</category>
       </categories>
       <tags>
         <tag>Color Change</tag>
-        <tag>Inanimate</tag>
         <tag>Humanoid</tag>
+        <tag>Inanimate</tag>
       </tags>
   </entry>
   <entry>
@@ -281,6 +264,23 @@
       <tags>
         <tag>Animal</tag>
         <tag>Color Change</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Walking Red Flag</title>
+    <url>/walking-red-flag/</url>
+    <content><![CDATA[<p>The 2020s has seen a sharp increase in using “red flags” to discuss partners and dating, so I decided to take a more literal interpretation of the phrase. If the giant red flag isn’t enough to scare you away from the walking red flag in your life, they have another red flag right there in their hand. </p>
+<p>This was my Round of 16 entry for the 2025 Death Battle Design Contest. </p>
+<hr>
+<h2 id="Crease-Pattern"><a href="#Crease-Pattern" class="headerlink" title="Crease Pattern:"></a>Crease Pattern:</h2><p><img src="/gallery/walking-red-flag-cp.png"></p>
+]]></content>
+      <categories>
+        <category>gallery</category>
+      </categories>
+      <tags>
+        <tag>Color Change</tag>
+        <tag>Humanoid</tag>
+        <tag>Inanimate</tag>
       </tags>
   </entry>
   <entry>
