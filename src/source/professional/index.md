@@ -4,25 +4,16 @@ description: >-
     Ronik builds communities through folding. He has given talks and workshops across the country, organized exhibits for young artists, and collaborated with schools to teach students origami. He is always excited to share his work with others.
 ---
 
-If you're interested in having me teach or give a talk or design something for you, please contact me using the email on my [about page](/about).
+Open to doing commissions! Just email/DM me:
 
-## Exhibits
-
- - Chicago Origami Convention, March 2026. Chicago, IL.
-
- - Origami USA Convention, July 2025. New York City, NY.
-
- - UChicago Winter Showcase. Chicago, IL.
-    - [2025](https://voices.uchicago.edu/uchicagorigami/events/showcase/winter-showcase-2026/exhibits-by-ronik-bhaskar-2/)
-    - [2024](https://voices.uchicago.edu/uchicagorigami/events/showcase/winter-2025/ronik-bhaskar/)
-    - 2023
-
- - UChicago Spring Showcase. Chicago, IL.
-    - [2025](https://voices.uchicago.edu/uchicagorigami/events/showcase/spring-2025/ronik-bhaskar/)
-    - [2024](https://voices.uchicago.edu/uchicagorigami/events/showcase/spring-2024/ronik-bhaskar/)
-    - 2023
+ - Email: business {at} ronikorigami {dot} com
+ - Instagram: @ronikfolds
 
 ## Talks and Workshops
+
+ - *Stick Figure - Intro to Folding Humans*. Summer of Folding, June 2026. Virtual.
+
+ - *Teaching to Different Ages and Skill Levels*. Conference for Creators, May 2026. Ann Arbor, MI.
 
  - *Stick Figure - Intro to Folding Humans*. Chicago Origami Convention, March 2026. Chicago, IL.
 
@@ -38,7 +29,20 @@ If you're interested in having me teach or give a talk or design something for y
 
  - **1st Place**. Origami-Dan Design Contest, July 2024. 
 
+## Open Exhibits
+
+ - Conference for Creators, May 2026. Ann Arbor, MI.
+
+ - Chicago Origami Convention, March 2026. Chicago, IL.
+
+ - Origami USA Convention, July 2025. New York City, NY.
+
+ - UChicago Bi-Annual Showcase. Chicago, IL.
+    - 2026, 2025, 2024, 2023
+
 ## Leadership and Community Outreach
+
+ - Lead, Summer of Folding, 2026. Global.
 
  - President, UChicagOrigami, 2023-2024. Chicago, IL.
 
