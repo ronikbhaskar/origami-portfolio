@@ -4,7 +4,16 @@
   <url>
     <loc>https://ronikorigami.com/about/</loc>
     
-    <lastmod>2026-06-27</lastmod>
+    <lastmod>2026-07-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ronikorigami.com/camouflage/</loc>
+    
+    <lastmod>2026-07-03</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -193,7 +202,7 @@
 
   <url>
     <loc>https://ronikorigami.com/</loc>
-    <lastmod>2026-06-27</lastmod>
+    <lastmod>2026-07-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
