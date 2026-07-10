@@ -4,7 +4,7 @@ description: >-
     Ronik is a Chicago-based origami artist. His art focuses on origami as a storytelling medium. He is best known for my multi-subject work, folding two or more objects from a single sheet of paper.
 ---
 
-## Contact (Open to Commissions)
+## Contact
 
 Email: business {at} ronikorigami {dot} com
 
