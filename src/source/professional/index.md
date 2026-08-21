@@ -4,7 +4,7 @@ description: >-
     Ronik builds communities through folding. He has given talks and workshops across the country, organized exhibits for young artists, and collaborated with schools to teach students origami. He is always excited to share his work with others.
 ---
 
-For commissions or group classes, please contact me through one of the following channels:
+For commissions or live entertainment, please contact me through one of the following channels:
 
  - Email: business {at} ronikorigami {dot} com
  - Instagram: @ronikfolds
@@ -27,9 +27,11 @@ For commissions or group classes, please contact me through one of the following
 
 ## Competitive Awards
 
+ - **1st Place**. Origami-Dan Design Contest, Summer 2026. 
+
  - **Quarterfinalist**. Death Battle Design Contest, 2025. 
 
- - **1st Place**. Origami-Dan Design Contest, July 2024. 
+ - **1st Place**. Origami-Dan Design Contest, Summer 2024. 
 
 ## Open Exhibits
 
