@@ -1,7 +1,7 @@
 ---
 title: Professional Work
 description: >-
-    Ronik builds communities through folding. He has given talks and workshops across the country, organized exhibits for young artists, and collaborated with schools to teach students origami. He is always excited to share his work with others.
+    Ronik is a Chicago-based origami artist. His art focuses on origami as a storytelling medium. He is best known for his multi-subject work, folding two or more objects from a single sheet of paper.
 ---
 
 For commissions or live entertainment, please contact me through one of the following channels:
