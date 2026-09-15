@@ -5,6 +5,7 @@ categories:
  - [gallery]
 tags: 
  - Humanoid
+ - Wetfold
 featured_image: /gallery/unwind-1.jpg 
 ---
 
