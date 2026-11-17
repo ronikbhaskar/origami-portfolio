@@ -27,6 +27,10 @@ For commissions or live entertainment, please contact me through one of the foll
 
 ## Competitive Awards
 
+All awards listed are from international competitions.
+
+ - **1st Place**. OBB Competition, 2026.
+
  - **1st Place**. Origami-Dan Design Contest, Summer 2026. 
 
  - **Quarterfinalist**. Death Battle Design Contest, 2025. 
